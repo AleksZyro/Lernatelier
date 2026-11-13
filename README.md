@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 13.11.2026
+ich möchte Heute:
+1. Ich rufe heute 5 Unternehmen telefonisch an um nach einer Praktikumsstelle zu suchen.
+2. Ich erstelle neue Texturen für UMR
+3. Ich refactore meinen Portfolio Websiten Code
+
+## Reflexion
+1.
+2.
+3.
+
 ## 06.11.2026
 ich möchte Heute:
 1. Ich rufe heute 5 Unternehmen telefonisch an um nach einer Praktikumsstelle zu suchen.
