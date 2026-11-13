@@ -1,5 +1,7 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 13.11.2026: Herr Nikolic hat heute bei 5 Firmen angerufen. Bei einer (Agility) kann er seine Bewerbung einreichen. Dann hat er noch einen Anruf bei einem Verwandten gemacht, der auch in der IT arbeitet. Er wird die Bewerbungsunterlagen durchsehen und Feedback geben.
+
 * 23.10.2026: Er Nikolic hat 12 Bewerbungen verschickt. 6 initiativ und 6 auf Inserate. 8 Absagen hat er bisher erhalten. Ich ermutige ihn, nach dem Grund zu fragen. 4 sind noch offen. Ich empfehle ihm, nach etwa 2 Wochen telefonisch nachzufragen. Herr Nikolic hat eine Liste mit Personen, über die er allenfalls eine Stelle bekommen könne. Wie soll er vorgehen? Ich empfehle ihm, ein oder zwei Personen zu wählen und diese z. B. zu fragen, ob ihre Firma Praktikumsplätze für IMS-Lernende anbiete. Dann ist es ihnen überlassen, ob sie Herrn Nikolic empfehlen und wie weit sie dabei helfen. Viel Erfolg!
 
 * 21.08.2026:
