@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich refactore meinen Portfolio Websiten Code
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 06.11.2026
 ich möchte Heute:
