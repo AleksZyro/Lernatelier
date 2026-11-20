@@ -1,8 +1,19 @@
 ## Lernatelier ## 
 
+## 20.11.2026
+ich möchte Heute:
+1. Ich bewerbe mich bei 3 Unternehmen für eine Praktikumsstelle
+2. Ich erstelle ein Logo für UMR
+3. Ich möchte mit einem neuen Projekt beginnen
+
+## Reflexion
+1.
+2.
+3.
+
 ## 13.11.2026
 ich möchte Heute:
-1. Ich rufe heute 5 Unternehmen telefonisch an um nach einer Praktikumsstelle zu suchen.
+1. Ich rufe 5 Unternehmen telefonisch an um nach einer Praktikumsstelle zu suchen
 2. Ich erstelle neue Texturen für UMR
 3. Ich refactore meinen Portfolio Websiten Code
 
@@ -13,7 +24,7 @@ ich möchte Heute:
 
 ## 06.11.2026
 ich möchte Heute:
-1. Ich rufe heute 5 Unternehmen telefonisch an um nach einer Praktikumsstelle zu suchen.
+1. Ich rufe 5 Unternehmen telefonisch an um nach einer Praktikumsstelle zu suchen
 2. Ich erstelle neue Texturen für UMR
 3. Agent Dock mit Codex Skills bestücken (Projekt mit Andrin Maag)
 
