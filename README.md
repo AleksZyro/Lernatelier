@@ -7,9 +7,9 @@ ich möchte Heute:
 3. Ich möchte mit einem neuen Projekt beginnen
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht 
+3. Ziel erreicht
 
 ## 13.11.2026
 ich möchte Heute:
