@@ -1,5 +1,16 @@
 ## Lernatelier ## 
 
+## 27.11.2026
+ich möchte Heute:
+1. Ich bewerbe mich bei 3 Unternehmen für eine Praktikumsstelle
+2. Ich helfe Andrin seinen Oracle Server wieder in Betrieb zu nehmen
+3. Ich teste UMR Code für bugs
+
+## Reflexion
+1.
+2.
+3.
+
 ## 20.11.2026
 ich möchte Heute:
 1. Ich bewerbe mich bei 3 Unternehmen für eine Praktikumsstelle
